@@ -13,7 +13,7 @@ Site | Área | Notas
 :-- | :--: | :--
 [Frontend BR](https://github.com/frontendbr/vagas)| Frontend | Repo do Github
 [Frontend 5k+](https://www.facebook.com/groups/frontend5k)| Frontend | Grupo de Facebook com vagas acima de 5mil
-[Backend BR](https://github.com/backendbr/vagas)| Backend | Repo do Github
+[Backend BR](https://github.com/backend-br/vagas)| Backend | Repo do Github
 [Vagas Jr](https://github.com/alinebastos/vagas-junior-estagio#v%C3%A1rias-cidades)| Todas para Jr | Repo agregadora do Github
 
 ### Nacionais:
@@ -22,7 +22,7 @@ Site | Notas
 :-- | :--
 [Coodesh](https://coodesh.com) | Startup de devs para devs
 [Revelo](https://revelo.com)| Com vagas nacionais e internacionais 
-[LinkedIn Jobs](linkedin.com/jobs) | Vagas nacionais e internacionais
+[LinkedIn Jobs](https://linkedin.com/jobs) | Vagas nacionais e internacionais
 [Cubo Network](https://cubo.network) | Vagas para Startups
 [Vulpi](https://vulpi.com.br) | Vagas nacionais
 [Trampos](https://trampos.co) | Vagas Fulltime e Freelancer
